@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+    <string name="color_prompt">Choose eye color</string>
+
+    <string-array name="color_arrays">
+        <item>Brown</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Other</item>
+    </string-array>
+</resources>
